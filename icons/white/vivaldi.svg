@@ -1,1 +1,42 @@
-<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48"><defs><style>.cls-1{fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;}</style></defs><path class="cls-1" d="M42.68,15.1Q35.46,27.68,28.23,40.25a4.83,4.83,0,0,1-4,2.63,4.62,4.62,0,0,1-4.57-2.43c-3.05-5.26-6.06-10.53-9.09-15.8-1.84-3.2-3.69-6.4-5.52-9.61A4.86,4.86,0,0,1,9,7.68a4.66,4.66,0,0,1,4.46,2.51c1.36,2.33,2.69,4.68,4,7,1,1.69,1.92,3.38,2.91,5.05a7.64,7.64,0,0,0,6.4,3.95A7.79,7.79,0,0,0,35,19.28c0-.32.06-.63.07-.8a8.18,8.18,0,0,0-.82-3.63,4.86,4.86,0,1,1,9.07-3,5.06,5.06,0,0,1-.67,3.28"/></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="Layer_2"
+   data-name="Layer 2"
+   viewBox="0 0 48 48"
+   version="1.1"
+   sodipodi:docname="vivaldi.svg"
+   inkscape:version="1.2.2 (b0a8486, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview9"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="17.104167"
+     inkscape:cx="20.725944"
+     inkscape:cy="24.058465"
+     inkscape:window-width="1920"
+     inkscape:window-height="1006"
+     inkscape:window-x="0"
+     inkscape:window-y="50"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="Layer_2" />
+  <defs
+     id="defs4">
+    <style
+       id="style2">.cls-1{fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;}</style>
+  </defs>
+  <path
+     class="cls-1"
+     d="M42.68,15.1Q35.46,27.68,28.23,40.25a4.83,4.83,0,0,1-4,2.63,4.62,4.62,0,0,1-4.57-2.43c-3.05-5.26-6.06-10.53-9.09-15.8-1.84-3.2-3.69-6.4-5.52-9.61A4.86,4.86,0,0,1,9,7.68a4.66,4.66,0,0,1,4.46,2.51c1.36,2.33,2.69,4.68,4,7,1,1.69,1.92,3.38,2.91,5.05a7.64,7.64,0,0,0,6.4,3.95A7.79,7.79,0,0,0,35,19.28c0-.32.06-.63.07-.8a8.18,8.18,0,0,0-.82-3.63,4.86,4.86,0,1,1,9.07-3,5.06,5.06,0,0,1-.67,3.28"
+     id="path6"
+     style="stroke:#ef3939;stroke-opacity:1" />
+</svg>

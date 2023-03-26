@@ -1,1 +1,119 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48"><defs><style>.a{fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;}.b{fill:#fff;}</style></defs><circle class="a" cx="34.3382" cy="13.1176" r="7.6176"/><circle class="a" cx="34.3382" cy="34.8824" r="7.6176"/><circle class="a" cx="31.8353" cy="31.5088" r="1.4147"/><circle class="b" cx="34.3382" cy="34.8824" r="0.75"/><circle class="a" cx="36.8412" cy="31.4" r="1.4147"/><circle class="a" cx="38.4735" cy="36.1882" r="1.4147"/><circle class="a" cx="34.3382" cy="39.1265" r="1.4147"/><circle class="a" cx="30.2029" cy="36.1882" r="1.4147"/><circle class="b" cx="23.4559" cy="24" r="0.75"/><path class="a" d="M30.7471,28.0265,12.5735,9.8529H6.0441L27.4824,31.2912"/><path class="a" d="M23.4559,27.2647,12.5735,38.1471H6.0441L20.1912,24"/><path class="a" d="M23.4559,20.7353l4.0265-4.0265"/><path class="a" d="M26.7206,24l4.0265-4.0265"/></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 48 48"
+   version="1.1"
+   id="svg32"
+   sodipodi:docname="youcutvideoeditor.svg"
+   inkscape:version="1.2.2 (b0a8486, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview34"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="17.104167"
+     inkscape:cx="20.725944"
+     inkscape:cy="24.058465"
+     inkscape:window-width="1920"
+     inkscape:window-height="1006"
+     inkscape:window-x="0"
+     inkscape:window-y="50"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg32" />
+  <defs
+     id="defs4">
+    <style
+       id="style2">.a{fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;}.b{fill:#fff;}</style>
+  </defs>
+  <circle
+     class="a"
+     cx="34.3382"
+     cy="13.1176"
+     r="7.6176"
+     id="circle6"
+     style="stroke:#ff8628;stroke-opacity:1" />
+  <circle
+     class="a"
+     cx="34.3382"
+     cy="34.8824"
+     r="7.6176"
+     id="circle8"
+     style="stroke:#ff8628;stroke-opacity:1" />
+  <circle
+     class="a"
+     cx="31.8353"
+     cy="31.5088"
+     r="1.4147"
+     id="circle10"
+     style="stroke:#ff8628;stroke-opacity:1" />
+  <circle
+     class="b"
+     cx="34.3382"
+     cy="34.8824"
+     r="0.75"
+     id="circle12"
+     style="stroke:#ff8628;stroke-opacity:1" />
+  <circle
+     class="a"
+     cx="36.8412"
+     cy="31.4"
+     r="1.4147"
+     id="circle14"
+     style="stroke:#ff8628;stroke-opacity:1" />
+  <circle
+     class="a"
+     cx="38.4735"
+     cy="36.1882"
+     r="1.4147"
+     id="circle16"
+     style="stroke:#ff8628;stroke-opacity:1" />
+  <circle
+     class="a"
+     cx="34.3382"
+     cy="39.1265"
+     r="1.4147"
+     id="circle18"
+     style="stroke:#ff8628;stroke-opacity:1" />
+  <circle
+     class="a"
+     cx="30.2029"
+     cy="36.1882"
+     r="1.4147"
+     id="circle20"
+     style="stroke:#ff8628;stroke-opacity:1" />
+  <circle
+     class="b"
+     cx="23.4559"
+     cy="24"
+     r="0.75"
+     id="circle22"
+     style="stroke:#ff8628;stroke-opacity:1" />
+  <path
+     class="a"
+     d="M30.7471,28.0265,12.5735,9.8529H6.0441L27.4824,31.2912"
+     id="path24"
+     style="stroke:#ff8628;stroke-opacity:1" />
+  <path
+     class="a"
+     d="M23.4559,27.2647,12.5735,38.1471H6.0441L20.1912,24"
+     id="path26"
+     style="stroke:#ff8628;stroke-opacity:1" />
+  <path
+     class="a"
+     d="M23.4559,20.7353l4.0265-4.0265"
+     id="path28"
+     style="stroke:#ff8628;stroke-opacity:1" />
+  <path
+     class="a"
+     d="M26.7206,24l4.0265-4.0265"
+     id="path30"
+     style="stroke:#ff8628;stroke-opacity:1" />
+</svg>

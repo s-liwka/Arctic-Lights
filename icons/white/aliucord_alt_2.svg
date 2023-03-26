@@ -3,14 +3,14 @@
    id="b"
    viewBox="0 0 48 48"
    version="1.1"
-   sodipodi:docname="aliucord_installer.svg"
+   sodipodi:docname="aliucord_alt_2.svg"
    inkscape:version="1.2.2 (b0a8486, 2022-12-01)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <sodipodi:namedview
-     id="namedview13"
+     id="namedview4269"
      pagecolor="#ffffff"
      bordercolor="#000000"
      borderopacity="0.25"
@@ -20,7 +20,7 @@
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
      inkscape:zoom="17.104167"
-     inkscape:cx="24"
+     inkscape:cx="21.924482"
      inkscape:cy="24.058465"
      inkscape:window-width="1920"
      inkscape:window-height="1006"
@@ -29,27 +29,45 @@
      inkscape:window-maximized="1"
      inkscape:current-layer="b" />
   <defs
-     id="defs4">
+     id="defs4256">
     <style
-       id="style2">.e{fill:none;stroke:#000;stroke-linecap:round;stroke-linejoin:round;}</style>
+       id="style4254">.c{fill:none;stroke:#000;stroke-linecap:round;stroke-linejoin:round;}</style>
   </defs>
   <path
-     class="e"
+     class="c"
      d="m17.59,34.1733c-.89,1.3069-1.8944,2.6152-2.91,3.8267-7.38-.21-10.18-5-10.18-5,.1049-6.7869,1.7496-13.4614,4.81-19.52,2.6902-2.1046,5.9681-3.3207,9.38-3.48l1,2.31c1.4283-.1983,2.8681-.3018,4.31-.31,1.4484.0048,2.8948.105,4.33.3l1-2.31c3.4152.1679,6.6935,1.3947,9.38,3.51,3.0506,6.0542,4.6883,12.7214,4.79,19.5,0,0-2.8,4.79-10.18,5-1.0166-1.2213-1.9711-2.4929-2.86-3.81m6.46-2.9c-3.84,1.9454-7.5555,3.89-12.92,3.89s-9.08-1.9446-12.92-3.89"
-     id="path6"
-     style="fill:none;fill-opacity:1;stroke:#00bf4f;stroke-opacity:1" />
-  <g
-     id="g10"
-     style="stroke:#ffffff;stroke-opacity:1">
-    <path
-       id="c"
-       class="e"
-       d="m24,18.5v11l-4.1759-4.5035"
-       style="stroke:#ffffff;stroke-opacity:1" />
-    <path
-       id="d"
-       class="e"
-       d="m24,29.5l4.1759-4.5035"
-       style="stroke:#ffffff;stroke-opacity:1" />
-  </g>
+     id="path4258"
+     style="stroke:#00be4e;stroke-opacity:1" />
+  <line
+     class="c"
+     x1="15.347"
+     y1="28.73"
+     x2="20.347"
+     y2="23.73"
+     id="line4260"
+     style="stroke:#00be4e;stroke-opacity:1" />
+  <line
+     class="c"
+     x1="15.347"
+     y1="23.73"
+     x2="20.347"
+     y2="28.73"
+     id="line4262"
+     style="stroke:#00be4e;stroke-opacity:1" />
+  <line
+     class="c"
+     x1="27.653"
+     y1="28.73"
+     x2="32.653"
+     y2="23.73"
+     id="line4264"
+     style="stroke:#00be4e;stroke-opacity:1" />
+  <line
+     class="c"
+     x1="27.653"
+     y1="23.73"
+     x2="32.653"
+     y2="28.73"
+     id="line4266"
+     style="stroke:#00be4e;stroke-opacity:1" />
 </svg>

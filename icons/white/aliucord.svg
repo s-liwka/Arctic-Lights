@@ -2,15 +2,15 @@
 <svg
    viewBox="0 0 48 48"
    version="1.1"
-   id="svg14"
-   sodipodi:docname="clock.svg"
+   id="svg1594"
+   sodipodi:docname="aliucord.svg"
    inkscape:version="1.2.2 (b0a8486, 2022-12-01)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <sodipodi:namedview
-     id="namedview16"
+     id="namedview1596"
      pagecolor="#ffffff"
      bordercolor="#000000"
      borderopacity="0.25"
@@ -27,38 +27,29 @@
      inkscape:window-x="0"
      inkscape:window-y="50"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg14" />
+     inkscape:current-layer="svg1594" />
   <defs
-     id="defs4">
+     id="defs1586">
     <style
-       id="style2">.a{fill:none;stroke:#000;stroke-linecap:round;stroke-linejoin:round;}</style>
+       id="style1584">.a{fill:none;stroke:#000;stroke-linecap:round;stroke-linejoin:round;}</style>
   </defs>
   <path
      class="a"
-     d="M24,2.5A21.5,21.5,0,1,1,2.5,24,21.51,21.51,0,0,1,24,2.5Z"
-     id="path6"
-     style="stroke:#333333;stroke-opacity:1" />
+     d="M17.59,34.1733c-.89,1.3069-1.8944,2.6152-2.91,3.8267C7.3,37.79,4.5,33,4.5,33A44.83,44.83,0,0,1,9.31,13.48,16.47,16.47,0,0,1,18.69,10l1,2.31A32.6875,32.6875,0,0,1,24,12a32.9643,32.9643,0,0,1,4.33.3l1-2.31a16.47,16.47,0,0,1,9.38,3.51A44.8292,44.8292,0,0,1,43.5,33s-2.8,4.79-10.18,5a47.4193,47.4193,0,0,1-2.86-3.81m6.46-2.9c-3.84,1.9454-7.5555,3.89-12.92,3.89s-9.08-1.9446-12.92-3.89"
+     id="path1588"
+     style="fill:none;fill-opacity:1;stroke:#00bf4f;stroke-opacity:1" />
   <circle
      class="a"
-     cx="24"
-     cy="24"
-     r="2.5"
-     id="circle8"
-     style="stroke:#ff8000;stroke-opacity:1" />
-  <line
+     cx="17.847"
+     cy="26.23"
+     r="3.35"
+     id="circle1590"
+     style="stroke:#00bf4f;stroke-opacity:1" />
+  <circle
      class="a"
-     x1="24"
-     y1="21.5"
-     x2="24"
-     y2="11.44"
-     id="line10"
-     style="stroke:#ff8100;stroke-opacity:1" />
-  <line
-     class="a"
-     x1="26.1"
-     y1="25.35"
-     x2="38.3"
-     y2="33.15"
-     id="line12"
-     style="stroke:#ffffff;stroke-opacity:1" />
+     cx="30.153"
+     cy="26.23"
+     r="3.35"
+     id="circle1592"
+     style="stroke:#00bf4f;stroke-opacity:1" />
 </svg>

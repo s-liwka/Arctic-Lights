@@ -1,1 +1,130 @@
-<?xml version="1.0" encoding="UTF-8"?><svg id="a" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48"><defs><style>.b{fill:#fff;}.c{fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;}</style></defs><circle class="c" cx="24" cy="24" r="21.5"/><path class="c" d="m7.8972,38.2437c2.1537-17.072,8.5487-29.4528,16.1028-29.4528,8.0227,0,13.2428,10.0472,14.5419,31.0445"/><path class="c" d="m27.5189,45.2316c.4564-13.0515,2.4668-24.2076,5.2912-30.6215"/><ellipse class="c" cx="25.2275" cy="23.1542" rx="3.2615" ry="2.2559" transform="translate(-1.8585 44.1039) rotate(-80.2664)"/><path class="c" d="m35.6335,21.2644c-2.5354,3.6141-2.8235,8.6818-2.8235,13.7917,1.4026-4.4159,2.3161-6.5638,4.2827-7.6844"/><circle class="b" cx="25.326" cy="23.9042" r=".75"/><line class="c" x1="35.0137" y1="22.2542" x2="35.3411" y2="22.4813"/><line class="c" x1="32.9112" y1="30.9615" x2="33.1542" y2="30.9626"/><line class="c" x1="33.0863" y1="29.2348" x2="33.5327" y2="29.3224"/><line class="c" x1="33.2483" y1="27.7399" x2="33.9813" y2="27.8785"/><line class="c" x1="33.5218" y1="26.2807" x2="34.1823" y2="26.4639"/><line class="c" x1="33.9174" y1="24.834" x2="34.5421" y2="25.0047"/><line class="c" x1="34.4034" y1="23.5075" x2="35.0187" y2="23.729"/></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="a"
+   viewBox="0 0 48 48"
+   version="1.1"
+   sodipodi:docname="megalodon.svg"
+   inkscape:version="1.2.2 (b0a8486, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview33"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="17.104167"
+     inkscape:cx="20.725944"
+     inkscape:cy="24.058465"
+     inkscape:window-width="1920"
+     inkscape:window-height="1006"
+     inkscape:window-x="0"
+     inkscape:window-y="50"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="a" />
+  <defs
+     id="defs4">
+    <style
+       id="style2">.b{fill:#fff;}.c{fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;}</style>
+  </defs>
+  <path
+     class="c"
+     d="m7.8972,38.2437c2.1537-17.072,8.5487-29.4528,16.1028-29.4528,8.0227,0,13.2428,10.0472,14.5419,31.0445"
+     id="path8"
+     style="stroke:#ff87d1;stroke-opacity:1" />
+  <path
+     class="c"
+     d="m35.6335,21.2644c-2.5354,3.6141-2.8235,8.6818-2.8235,13.7917,1.4026-4.4159,2.3161-6.5638,4.2827-7.6844"
+     id="path14"
+     style="stroke:#ff87d1;stroke-opacity:1" />
+  <path
+     class="c"
+     d="m27.5189,45.2316c.4564-13.0515,2.4668-24.2076,5.2912-30.6215"
+     id="path10"
+     style="stroke:#ff87d1;stroke-opacity:1" />
+  <ellipse
+     class="c"
+     cx="25.2275"
+     cy="23.1542"
+     rx="3.2615"
+     ry="2.2559"
+     transform="translate(-1.8585 44.1039) rotate(-80.2664)"
+     id="ellipse12"
+     style="stroke:#ff87d1;stroke-opacity:1" />
+  <circle
+     class="b"
+     cx="25.326"
+     cy="23.9042"
+     r=".75"
+     id="circle16"
+     style="stroke:#ff87d1;stroke-opacity:1" />
+  <line
+     class="c"
+     x1="35.0137"
+     y1="22.2542"
+     x2="35.3411"
+     y2="22.4813"
+     id="line18"
+     style="stroke:#ff87d1;stroke-opacity:1" />
+  <line
+     class="c"
+     x1="32.9112"
+     y1="30.9615"
+     x2="33.1542"
+     y2="30.9626"
+     id="line20"
+     style="stroke:#ff87d1;stroke-opacity:1" />
+  <circle
+     class="c"
+     cx="24"
+     cy="24"
+     r="21.5"
+     id="circle6"
+     style="stroke:#fc3ebb;stroke-opacity:1" />
+  <line
+     class="c"
+     x1="33.0863"
+     y1="29.2348"
+     x2="33.5327"
+     y2="29.3224"
+     id="line22"
+     style="stroke:#ff87d1;stroke-opacity:1" />
+  <line
+     class="c"
+     x1="33.2483"
+     y1="27.7399"
+     x2="33.9813"
+     y2="27.8785"
+     id="line24"
+     style="stroke:#ff87d1;stroke-opacity:1" />
+  <line
+     class="c"
+     x1="33.5218"
+     y1="26.2807"
+     x2="34.1823"
+     y2="26.4639"
+     id="line26"
+     style="stroke:#ff87d1;stroke-opacity:1" />
+  <line
+     class="c"
+     x1="33.9174"
+     y1="24.834"
+     x2="34.5421"
+     y2="25.0047"
+     id="line28"
+     style="stroke:#ff87d1;stroke-opacity:1" />
+  <line
+     class="c"
+     x1="34.4034"
+     y1="23.5075"
+     x2="35.0187"
+     y2="23.729"
+     id="line30"
+     style="stroke:#ff87d1;stroke-opacity:1" />
+</svg>

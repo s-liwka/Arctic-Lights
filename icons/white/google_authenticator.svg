@@ -1,1 +1,42 @@
-<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48"><defs><style>.cls-1{fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;}</style></defs><path class="cls-1" d="M23.78,2.5h0A21.52,21.52,0,0,1,36,6.13l-5.63,8.41a11.39,11.39,0,1,0,3.85,14.52H24V18.94H45.5V24A21.5,21.5,0,1,1,23.24,2.51ZM24,5a2.53,2.53,0,1,0,2.53,2.53A2.53,2.53,0,0,0,24,5ZM7.56,21.47A2.53,2.53,0,1,0,10.09,24,2.53,2.53,0,0,0,7.56,21.47Zm32.88,0A2.53,2.53,0,1,0,43,24,2.53,2.53,0,0,0,40.44,21.47ZM24,37.91a2.53,2.53,0,1,0,2.53,2.53A2.53,2.53,0,0,0,24,37.91Z"/></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="Layer_2"
+   data-name="Layer 2"
+   viewBox="0 0 48 48"
+   version="1.1"
+   sodipodi:docname="google_authenticator.svg"
+   inkscape:version="1.2.2 (b0a8486, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview9"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="12.094472"
+     inkscape:cx="11.286148"
+     inkscape:cy="30.055053"
+     inkscape:window-width="1920"
+     inkscape:window-height="1006"
+     inkscape:window-x="0"
+     inkscape:window-y="50"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="Layer_2" />
+  <defs
+     id="defs4">
+    <style
+       id="style2">.cls-1{fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;}</style>
+  </defs>
+  <path
+     class="cls-1"
+     d="M23.78,2.5h0A21.52,21.52,0,0,1,36,6.13l-5.63,8.41a11.39,11.39,0,1,0,3.85,14.52H24V18.94H45.5V24A21.5,21.5,0,1,1,23.24,2.51ZM24,5a2.53,2.53,0,1,0,2.53,2.53A2.53,2.53,0,0,0,24,5ZM7.56,21.47A2.53,2.53,0,1,0,10.09,24,2.53,2.53,0,0,0,7.56,21.47Zm32.88,0A2.53,2.53,0,1,0,43,24,2.53,2.53,0,0,0,40.44,21.47ZM24,37.91a2.53,2.53,0,1,0,2.53,2.53A2.53,2.53,0,0,0,24,37.91Z"
+     id="path6"
+     style="stroke:#a7a9ac;stroke-opacity:1" />
+</svg>

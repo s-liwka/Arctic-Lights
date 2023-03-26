@@ -1,1 +1,57 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48"><defs><style>.a{fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;}</style></defs><path class="a" d="M29,25.75V5l8.4-.5v39L29,43M19,22.25V43l-8.4.5V4.5h0L19,5"/><line class="a" x1="18.98" y1="5" x2="37.42" y2="43.5"/><line class="a" x1="10.58" y1="4.5" x2="29.02" y2="43"/></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 48 48"
+   version="1.1"
+   id="svg12"
+   sodipodi:docname="netflix.svg"
+   inkscape:version="1.2.2 (b0a8486, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview14"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="17.104167"
+     inkscape:cx="20.725944"
+     inkscape:cy="24.058465"
+     inkscape:window-width="1920"
+     inkscape:window-height="1006"
+     inkscape:window-x="0"
+     inkscape:window-y="50"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg12" />
+  <defs
+     id="defs4">
+    <style
+       id="style2">.a{fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;}</style>
+  </defs>
+  <path
+     class="a"
+     d="M29,25.75V5l8.4-.5v39L29,43M19,22.25V43l-8.4.5V4.5h0L19,5"
+     id="path6"
+     style="stroke:#d81f26;stroke-opacity:1" />
+  <line
+     class="a"
+     x1="18.98"
+     y1="5"
+     x2="37.42"
+     y2="43.5"
+     id="line8"
+     style="stroke:#d81f26;stroke-opacity:1" />
+  <line
+     class="a"
+     x1="10.58"
+     y1="4.5"
+     x2="29.02"
+     y2="43"
+     id="line10"
+     style="stroke:#d81f26;stroke-opacity:1" />
+</svg>

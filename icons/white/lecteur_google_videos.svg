@@ -1,1 +1,68 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48"><defs><style>.a{fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;}</style></defs><path class="a" d="M40.5,5.5H7.5a2,2,0,0,0-2,2v33a2,2,0,0,0,2,2h33a2,2,0,0,0,2-2V7.5A2,2,0,0,0,40.5,5.5Z"/><path class="a" d="M5.5,35.5841c2.0514-1.7663,6.8037-5.1308,9.6215-5.1308,2.6916,0,18.8364,7.0607,25.3785,12.0467"/><path class="a" d="M20.6281,32.1425c2.0514-1.7664,8.2352-4.9159,11.0529-4.9159,2.576,0,5.8567,2.4681,10.819,5.5536"/><path class="a" d="M33.6674,27.6273c.2532,1.2278-1.1767,4.2559-.6721,6.7372a27.0583,27.0583,0,0,0,1.8214,4.5189"/><path class="a" d="M16.1023,30.6058c-3.63,2.65,1.4164,8.5484,5.2014,11.8942"/><circle class="a" cx="15.3738" cy="15.8178" r="3.4486"/></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 48 48"
+   version="1.1"
+   id="svg20215"
+   sodipodi:docname="lecteur_google_videos.svg"
+   inkscape:version="1.2.2 (b0a8486, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview20217"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="17.104167"
+     inkscape:cx="31.892814"
+     inkscape:cy="22.01218"
+     inkscape:window-width="1920"
+     inkscape:window-height="1006"
+     inkscape:window-x="0"
+     inkscape:window-y="50"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg20215" />
+  <defs
+     id="defs20201">
+    <style
+       id="style20199">.a{fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;}</style>
+  </defs>
+  <path
+     class="a"
+     d="M5.5,35.5841c2.0514-1.7663,6.8037-5.1308,9.6215-5.1308,2.6916,0,18.8364,7.0607,25.3785,12.0467"
+     id="path20205"
+     style="stroke:#6dcc00;stroke-opacity:1" />
+  <path
+     class="a"
+     d="M20.6281,32.1425c2.0514-1.7664,8.2352-4.9159,11.0529-4.9159,2.576,0,5.8567,2.4681,10.819,5.5536"
+     id="path20207"
+     style="stroke:#6dcc00;stroke-opacity:1" />
+  <path
+     class="a"
+     d="M33.6674,27.6273c.2532,1.2278-1.1767,4.2559-.6721,6.7372a27.0583,27.0583,0,0,0,1.8214,4.5189"
+     id="path20209"
+     style="stroke:#6dcc00;stroke-opacity:1" />
+  <path
+     class="a"
+     d="M16.1023,30.6058c-3.63,2.65,1.4164,8.5484,5.2014,11.8942"
+     id="path20211"
+     style="stroke:#6dcc00;stroke-opacity:1" />
+  <circle
+     class="a"
+     cx="15.3738"
+     cy="15.8178"
+     r="3.4486"
+     id="circle20213"
+     style="stroke:#fdd300;stroke-opacity:1" />
+  <path
+     class="a"
+     d="M40.5,5.5H7.5a2,2,0,0,0-2,2v33a2,2,0,0,0,2,2h33a2,2,0,0,0,2-2V7.5A2,2,0,0,0,40.5,5.5Z"
+     id="path20203"
+     style="stroke:#0080ff;stroke-opacity:1" />
+</svg>

@@ -1,1 +1,72 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48"><defs><style>.a{fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;}</style></defs><rect class="a" x="9.48" y="9.5" width="28.99" height="28.99" transform="translate(-9.95 23.98) rotate(-45)"/><rect class="a" x="15.86" y="23.3" width="19.59" height="4.7" transform="translate(-10.62 25.65) rotate(-45)"/><rect class="a" x="13.34" y="20.02" width="4.85" height="4.85" transform="translate(-11.25 17.72) rotate(-45)"/><rect class="a" x="20.03" y="13.34" width="4.85" height="4.85" transform="translate(-4.57 20.49) rotate(-45)"/></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 48 48"
+   version="1.1"
+   id="svg14135"
+   sodipodi:docname="geometry_dash.svg"
+   inkscape:version="1.2.2 (b0a8486, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview14137"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="17.104167"
+     inkscape:cx="24"
+     inkscape:cy="28.735688"
+     inkscape:window-width="1920"
+     inkscape:window-height="1006"
+     inkscape:window-x="0"
+     inkscape:window-y="50"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg14135" />
+  <defs
+     id="defs14125">
+    <style
+       id="style14123">.a{fill:none;stroke:#000;stroke-linecap:round;stroke-linejoin:round;}</style>
+  </defs>
+  <rect
+     class="a"
+     x="9.48"
+     y="9.5"
+     width="28.99"
+     height="28.99"
+     transform="translate(-9.95 23.98) rotate(-45)"
+     id="rect14127"
+     style="stroke:#feca00;stroke-opacity:1" />
+  <rect
+     class="a"
+     x="15.86"
+     y="23.3"
+     width="19.59"
+     height="4.7"
+     transform="translate(-10.62 25.65) rotate(-45)"
+     id="rect14129"
+     style="stroke:#00ffff;stroke-opacity:1" />
+  <rect
+     class="a"
+     x="13.34"
+     y="20.02"
+     width="4.85"
+     height="4.85"
+     transform="translate(-11.25 17.72) rotate(-45)"
+     id="rect14131"
+     style="stroke:#00ffff;stroke-opacity:1" />
+  <rect
+     class="a"
+     x="20.03"
+     y="13.34"
+     width="4.85"
+     height="4.85"
+     transform="translate(-4.57 20.49) rotate(-45)"
+     id="rect14133"
+     style="stroke:#00ffff;stroke-opacity:1" />
+</svg>
